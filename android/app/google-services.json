@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "61001706166",
+    "project_id": "project-structure-942d2",
+    "storage_bucket": "project-structure-942d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61001706166:android:4bb54b783840075f009417",
+        "android_client_info": {
+          "package_name": "com.craftcoder.project_structure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61001706166-u6mvoj8joiki0af06u5g2nusovnqa9o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAagiTKiL4KdznjVAfZaaxVMLDqKoeFRsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61001706166-u6mvoj8joiki0af06u5g2nusovnqa9o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
